@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lunaria</string>
+    <string name="app_tagline">ADVANCED AUDIO ENGINE</string>
+    <string name="copyright_notice">© 2026 DRAGONzEMP. ALL RIGHTS RESERVED.</string>
+    <string name="scanning_media">SCANNING AUDIO REPOSITORY…</string>
+    <string name="logo_content_desc">Lunaria Crescent Moon Emblem</string>
+    <string name="playback_notification_channel_name">Lunaria Audio Playback</string>
+    <string name="playback_notification_channel_desc">Active music playback and lock screen controls</string>
+</resources>
+
